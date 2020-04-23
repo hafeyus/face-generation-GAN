@@ -2,3 +2,5 @@
 */.ipynb_checkpoints/*
 
 assets
+processed_celeba_small
+__pycache__
