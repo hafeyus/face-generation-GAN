@@ -6,4 +6,5 @@ processed_celeba_small
 __pycache__
 
 *.zip
+*.pem
 
